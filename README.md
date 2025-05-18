@@ -1,6 +1,6 @@
 # DEVOPS Repository
 
-Welcome to the DEVOPS repository by [TahirAcharya](https://github.com/TahirAcharya). This repository contains resources and experiment documents related to the DevOps course.
+Welcome to the DEVOPS repository by [Tahir Mirji](https://github.com/TahirAcharya). This repository contains resources and experiment documents related to the DevOps Lab.
 
 ## 📁 Repository Contents
 
